@@ -1,0 +1,16 @@
+[
+{
+  "modid": "melodymod",
+  "name": "Melody Mod",
+  "description": "A mod to make it easier to play Melody's Harp on Hypixel Skyblock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/birajrai/MelodyMod/blob/main/README.md",
+  "updateUrl": "https://github.com/birajrai/MelodyMod/relases/latest",
+  "authorList": ["MsValeria"],
+  "credits": "MsValeria",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

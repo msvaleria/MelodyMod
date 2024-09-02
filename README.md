@@ -1,5 +1,5 @@
 # Melody Mod
-A mod that automatically plays harp and make it easier to play Melody's Harp on Hypixel Skyblock		https://hypixel.net/threads/mod-melody-mod.2483213/
+A mod that automatically plays Melody's Harp and make it easier to unlock 2 talismans on Hypixel Skyblock		https://github.com/msvaleria/MelodyMod/releases
 
 Isn't it hard to complete the harp songs? Now imagine starting the harp and it plays automatically, it's close to impossible!
 

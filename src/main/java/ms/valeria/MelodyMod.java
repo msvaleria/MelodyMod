@@ -12,9 +12,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
 @Mod(modid = MelodyMod.MODID, version = MelodyMod.VERSION, name = MelodyMod.MOD_NAME, clientSideOnly = true, acceptedMinecraftVersions = "[1.8.9]")
-public class MelodyMod
-{
-    // Constants for Mod metadata
+public class MelodyMod     // Constants for Mod metadata
     public static final String MODID = "melodymod";
     public static final String VERSION = "3.5";
     public static final String MOD_NAME = "Melody Mod";
